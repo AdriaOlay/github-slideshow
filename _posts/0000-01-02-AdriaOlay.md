@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+Vaya vaya aquí no hay :beach_umbrella:
 Utiliza la flecha hacia la izquierda para volver!
